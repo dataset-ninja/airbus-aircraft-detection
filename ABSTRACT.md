@@ -1,1 +1,5 @@
-This dataset is a demonstration version of larger and more advanced deep learning datasets created from Airbus satellite imagery. It is provided for demonstration purpose only.
+The **Airbus Aircrafts Detection Sample Dataset** is a subset derived from larger deep learning datasets developed using Airbus satellite imagery. The authors of the dataset present this version for illustrative purposes. The dataset aims to showcase the capabilities of Deep Learning in automatically detecting aircraft attributes such as their number, size, and type on airport sites. This automated detection provides insights into airport activities.
+
+The primary data source for the dataset is Airbus' Pleiades twin satellites, which consistently capture images of airports around the world. The dataset contains 103 image extracts from Pleiades imagery, each at approximately 50 cm resolution. These images are saved as JPEG files with dimensions of 2560 x 2560 pixels, equating to an area of 1280 meters on the ground. The dataset encompasses various airports globally, with some appearing multiple times on different acquisition dates. To add diversity, certain images feature fog or cloud cover.
+
+The dataset has been meticulously annotated with bounding boxes outlining all aircraft in the provided images. These annotations are structured as closed GeoJSON polygons.

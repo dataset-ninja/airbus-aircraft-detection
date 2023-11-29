@@ -1,6 +1,6 @@
 Dataset **Airbus Aircraft Detection** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/U/P/io/6nRzaIMGsPspZa939LDbGf5Lz8zVQlYjuWYv6CGT4KVCrlmgB7FXiprt3MVxn5kEhTqu1m9ebSpdf9uFEKEylphjC0lkzu4ruRT41dwdVyiteRn0uKnyipt7DnFa.tar)
+ [Download](https://www.dropbox.com/scl/fi/ghvgi7hl4nt9bl8pd6o92/airbus-aircraft-detection-DatasetNinja.tar?rlkey=3a6pptqlaiw0insrejz3lmjch&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
